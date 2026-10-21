@@ -115,16 +115,10 @@
 
     <p>Ovu stranicu izradio/la je Karla Petek</p>
 
-    <p>
-      PHP je serverski jezik koji generira HTML
-      ili JSON odgovor prema klijentu.
-    </p>
+    <p>PHP je serverski jezik koji generira HTML ili JSON odgovor prema klijentu.</p>
 
     <p>
-      <a class="btn"
-         href="https://hr.wikipedia.org/wiki/PHP"
-         target="_blank"
-         rel="noopener">
+      <a class="btn" href="https://hr.wikipedia.org/wiki/PHP" target="_blank">
         Saznaj više o PHP-u
       </a>
     </p>
